@@ -1,0 +1,6 @@
+name: EndermiteParasites
+description: Endermen spawn endermites on death
+author: Raus
+main: com.raus.endermiteParasites.Main
+version: 1.0
+api-version: 1.15
